@@ -1,2 +1,2 @@
-# EpiCBotswana-iHRIS
+# EpiC Botswana-iHRIS
 iHRIS
